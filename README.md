@@ -19,3 +19,4 @@ go to [JLCPCB](https://jlcpcb.com/)
     
 ### todo
   - write and add firmware 
+  - make a case? maybe 
