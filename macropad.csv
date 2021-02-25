@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**";"breakaway-mousebites";2;"breakaway-mousebites";;;
+2;"REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**";"MountingHole_2mm";8;"MountingHole_2mm";;;
+3;"SW13,SW12,SW11";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";3;"Rotary_Encoder_Switch";;;
+4;"SW10";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"Switch_SW_Push";;;
+5;"U1";"ArduinoProMicro";1;"ProMicro";;;
+6;"D10,D11,D12,D1,D2,D3,D4,D5,D6,D7,D8,D9";"D_SOD-123F";12;"1N4148";;;
+7;"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9";"MX-Alps-Choc-1U";9;"SW_Push_LED";;;
